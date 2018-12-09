@@ -18,10 +18,11 @@ body{
 .slider{
 	
     height: 400px;
-    background-image: url(../image/eCommerce.png);
+    /*background-image: url(../image/eCommerce.png);
     background-repeat: no-repeat;
     background-position: fixed;
-    background-position: center bottom;
+	background-position: center bottom;*/
+	    background-color: #cdeaea;
 
 }
 /*.logo{
