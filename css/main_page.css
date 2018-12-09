@@ -20,15 +20,16 @@ body{
     height: 400px;
     background-image: url(../image/eCommerce.png);
     background-repeat: no-repeat;
-    
+    background-position: fixed;
     background-position: center bottom;
-    opacity: 0.3;
 
 }
-.slider .logo{
-	background-image: url(../image/Ajio-Logo.png);
-	background-repeat: no-repeat;
-	background-position: center;
+/*.logo{
+	border: 3px solid red;
+    height: 56px;
+    width: 146px;
+    margin-left: 579px;
+    padding: 12px;*/
 }
 .body{
 
